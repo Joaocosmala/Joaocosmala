@@ -8,4 +8,4 @@
 - 😄 Ele/Dele
 - ⚡ Meus hobbies são: Jogar videogame, passear com meu cachorro e pensar sobre o universo. As vezes eu entro numas maluquice existencial mas faz parte da vida.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&bg_color=00000000)
+![Joãocosmala](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&bg_color=00000000)
