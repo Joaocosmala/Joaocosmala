@@ -1,7 +1,7 @@
 ### Olá! 👋
 
 - 👨‍💻 Desenvolvedor Front-End Junior
-- 👨‍🎓 Cursando Bacharel em Sistemas de Informação e Tecnólogo concluído em Desenvolvimento de jogos.
+- 👨‍🎓 Cursando Bacharel em Sistemas de Informação
 - 🏙 Procurando minha primeira oportunidade na area Tech. Como desenvolvedor ou estagiando.
 - 🚀 Conhecimento em Front End com HTML5, CSS3 e JavaScript para desenvolvimento Web e Mobile.
       No momento estou aprimorando meus conhecimentos em JS, além também de estudar Python, SQL e Banco de Dados.
