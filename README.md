@@ -1,4 +1,4 @@
-### Olá! 👋
+### Olá, Eu sou o João! 👋
 
 - 👨‍💻 Desenvolvedor Front-End Junior
 - 👨‍🎓 Cursando Bacharel em Sistemas de Informação
