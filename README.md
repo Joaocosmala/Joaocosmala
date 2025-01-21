@@ -3,7 +3,7 @@
 ---------------------------------------
 
 - 👨‍💻 Desenvolvedor
-  HTML | CSS | TAILWIND | BOOTSTRAP | JS | TS | NODE | C | C# | REACTJS | NEXTJS | NESTJS | DOCKER | MONGO DB | POSTGREE-SQL | NPM | WSL (Subsistema Windows para Linux)
+- HTML | CSS | TAILWIND | BOOTSTRAP | JS | TS | NODE | C | C# | REACTJS | NEXTJS | NESTJS | DOCKER | MONGO DB | POSTGREE-SQL | NPM | WSL (Subsistema Windows para Linux)
   
 - 👨‍🎓 Cursando Bacharel em Sistemas de Informação, formado em Desenvolvimento e Design de Jogos pela Microcamp e membro da ALURA - Cursos Online de Tecnologia
 - 😄 Ele/Dele, ou o que você preferir
