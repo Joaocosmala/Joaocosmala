@@ -11,3 +11,5 @@
 - 📚 Idiomas: Português (Nativo) - Inglês (Intermediário) - Espanhol (Intermediário) - Francês (Básico)
 
 - 🖖🏼 Como diria Spock, vida longa e próspera!
+
+<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Joaocosmala&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joaocosmala&layout=compact&theme=tokyonight"/> </div>
