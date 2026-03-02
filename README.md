@@ -1,23 +1,14 @@
-### Olá, Eu sou o João! 👋
+# Olá, Eu sou o João! 👋
+👨‍💻 Desenvolvedor  <br><br>- JS | TS | NODE | C | C# | REACTJS | NEXTJS | NESTJS  <br>- DOCKER | MONGODB | POSTGRESQL | NPM | WSL  <br>- HTML | CSS | TAILWIND | BOOTSTRAP  <br>  <br>👨‍🎓 Cursando Bacharel em Sistemas de Informação  <br>🎮 Formado em Desenvolvimento e Design de Jogos pela Microcamp  <br>📚 Membro da Alura - Cursos Online de Tecnologia  <br><br>🌎 Idiomas:  <br>Português (Nativo)  <br>Inglês (Intermediário)  <br>Espanhol (Intermediário)  <br>Francês (Básico)<br><br>🖖🏼 Como diria Spock, vida longa e próspera!
+
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/joão-cosmala-034304200) 
+
+# 💻 Tech Stack:
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=Joaocosmala&icon=0&color=0)](https://visitcount.itsvg.in)
 
-👨‍💻 Desenvolvedor  
-
-- JS | TS | NODE | C | C# | REACTJS | NEXTJS | NESTJS  
-- DOCKER | MONGODB | POSTGRESQL | NPM | WSL  
-- HTML | CSS | TAILWIND | BOOTSTRAP  
-  
-👨‍🎓 Cursando Bacharel em Sistemas de Informação  
-🎮 Formado em Desenvolvimento e Design de Jogos pela Microcamp  
-📚 Membro da Alura - Cursos Online de Tecnologia  
-
-🌎 Idiomas:  
-Português (Nativo)  
-Inglês (Intermediário)  
-Espanhol (Intermediário)  
-Francês (Básico)
-
-🖖🏼 Como diria Spock, vida longa e próspera!
-
----
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
